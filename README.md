@@ -1,2 +1,2 @@
 # MSc-Dissertation
-Code for MSc Brain Sciences Research Project
+This repository contains the analysis code for my MSc Brain Sciences Research Project
